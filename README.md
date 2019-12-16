@@ -1,9 +1,8 @@
-Sample Story
-Overview
-This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
+## Sample Story
+### This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
-Tables
-Use this example to draw your Tables
+# Tables
+# Use this example to draw your Tables
 
 Name	Value	Description
 Georgios	Sep. 2018	kaimo jurgis žinoma
